@@ -11,6 +11,4 @@ tags: [ mainnav ]
 
 This is a test Eleventy site (Lukasz)
 
-{% for product in products %}
-- {{ product }}
-{% endfor %}
+Modified to test the github action
